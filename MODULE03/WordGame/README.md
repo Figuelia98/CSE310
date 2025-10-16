@@ -11,7 +11,7 @@ The application demonstrates how to:
 
 
 
-[Software Demo Video](https://www.loom.com/share/bb2bfd86fb2c4b9a8d7b1fe85beb9348?sid=510814b0-b9d1-49e9-921c-c66d9a7a440d)
+[Software Demo Video](https://www.loom.com/share/2db403f7e45548a4881ad8d166002358?sid=972d57f6-e727-4371-959f-b6fd397e11c5)
 
 ---
 
@@ -27,4 +27,4 @@ The application demonstrates how to:
 
 # Useful Websites
 
-- [Svelte Official Documentation](https://svelte.dev/docs)  
+- [Java Documentation](https://www.w3schools.com/java/)  
